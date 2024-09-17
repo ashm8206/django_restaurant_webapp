@@ -18,5 +18,5 @@
 ---
 
 #### References
-[Meta Backend Developer](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
-[Coding with Mosh](https://codewithmosh.com/p/back-end) ^ _ ^
+* [Meta Backend Developer](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
+* [Coding with Mosh](https://codewithmosh.com/p/back-end) ^ _ ^
