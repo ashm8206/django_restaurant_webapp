@@ -1,5 +1,12 @@
 ## ReadMe
 
+```
+---
+Author: Aishwarya Mali
+Date:   09/16/24
+---
+```
+
  A Restaurant App with Django framework. Please check demo video [here](https://github.com/ashm8206/django_restaurant_webapp/blob/main/Little%20Lemon.mp4)
 
 ### Home Page
