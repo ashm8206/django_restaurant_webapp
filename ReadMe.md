@@ -8,12 +8,14 @@
 ### Booking Page
 ![Little Lemon About Page](https://github.com/ashm8206/django_restaurant_webapp/blob/main/Little-Lemon-Booking.png)
 
-### About Page
-![Little Lemon Booking Page](https://github.com/ashm8206/django_restaurant_webapp/blob/main/Little-Lemon-About-Page.png)
-
 ### Menu Detail Page
 
 ![Little Lemon Menu Detail Page](https://github.com/ashm8206/django_restaurant_webapp/blob/main/Little-Lemon-Menu-Detail.png)
+
+### About Page
+![Little Lemon Booking Page](https://github.com/ashm8206/django_restaurant_webapp/blob/main/Little-Lemon-About-Page.png)
+
+
 
 ---
 
